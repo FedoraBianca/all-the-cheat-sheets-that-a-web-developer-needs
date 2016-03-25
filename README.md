@@ -1,1 +1,3 @@
-# all-the-cheat-sheets-that-a-web-developer-needs
+# cheat sheets for web developers
+
+source: http://codebangers.com/
